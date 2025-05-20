@@ -46,11 +46,13 @@ Para acceder al proyecto, haz click en el siguiente enlace al repositorio públi
 
 :one: Requisitos previos
 
-Este proyecto es una aplicación web que solo requiere un navegador moderno, como:
+Este proyecto es un Notebook que solo requiere un navegador moderno, como:
 
 - ✅ Google Chrome
 - ✅ Mozilla Firefox
 - ✅ Microsoft Edge
+
+Y contar con una cuenta de GoogleColab, desde donde se ejecutará Python.
 
 --
 
