@@ -2,7 +2,6 @@
 
 ![Portada Readme](https://github.com/user-attachments/assets/b5acbb8a-1ed3-405a-aa65-fc39d6f41a34)
 
-
 ## :loudspeaker: Estado del Proyecto
 <h4 align="center">
 :trophy: Proyecto Finalizado :trophy:
@@ -144,6 +143,7 @@ Para abrir y ejecutar el proyecto, utilizamos GoogleColab importando el archivo 
 
  - `Tools`: Octocat, Canva, Repositorios GitHub, Shields.io
 
+![GitHub_muestra](https://github.com/user-attachments/assets/f52f05a1-0587-4c59-8b10-03350305fc8f)
 
 
 ## :information_desk_person: Autores
