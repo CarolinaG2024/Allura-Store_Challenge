@@ -1,6 +1,7 @@
 <h1 align="center">Challenge Alura Store</h1>
 
-![Portada Readme]()
+![Portada Readme](https://github.com/user-attachments/assets/b5acbb8a-1ed3-405a-aa65-fc39d6f41a34)
+
 
 ## :loudspeaker: Estado del Proyecto
 <h4 align="center">
@@ -84,11 +85,13 @@ El proyecto tiene la siguiente organización:
 
 :four: Ejecutar el Notebook en GitHub
 
-- `Paso 1`: Abrir la carpeta del proyecto.
+- `Paso 1`: Abrir el repositorio Allura Challenge.
 
-- `Paso 2`: Hacer doble clic en AluraStoreLatam.ipynb.
+- `Paso 2`: Abrir la carpeta challenge1-data-science-latam-main
 
-- `Paso 3`: Se abrirá en el navegador automáticamente.
+- `Paso 3`: Hacer doble clic en AluraStoreLatam.ipynb.
+
+- `Paso 4`: Se abrirá en el navegador automáticamente.
 
 --
 
