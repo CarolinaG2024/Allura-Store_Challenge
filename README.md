@@ -41,9 +41,6 @@ Gracias al uso de Python, Pandas y Matplotlib, el proyecto brinda una solución 
 - `Funcionalidad 6`: Identifica los productos más y menos vendidos de cada tienda y representa gráficamente para cada tienda
 - `Funcionalidad 7`: Calcula el costo promedio de envío y representa gráficamente para cada tienda
 
-## :unlock: Abrir y Ejecutar
-
-![Abrir en GoogleColab](https://github.com/user-attachments/assets/a1c623bc-9f07-438a-bf82-cf22fc7984b1)
 
 ## :key: Acceso al Proyecto
 Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub: 
@@ -78,7 +75,7 @@ Extraer el archivo ZIP en tu computadora.
 
 El proyecto tiene la siguiente organización:
 
-![Estructura proyecto]()
+![Estructura del proyecto](https://github.com/user-attachments/assets/db217d09-4973-4f55-b937-7ba310f58c04)
 
 --
 
@@ -94,9 +91,12 @@ El proyecto tiene la siguiente organización:
 
 --
 
-:five: Cómo Usar el Notebook
+## :unlock: Abrir y Ejecutar
+Para abrir y ejecutar el proyecto, utilizamos GoogleColab importando el archivo fuente suministrado en el curso, desde la computadora o GitHub.
 
-Para acceder al Notebook, haz click en el siguiente enlace: 
+![Abrir en GoogleColab](https://github.com/user-attachments/assets/a1c623bc-9f07-438a-bf82-cf22fc7984b1)
+
+:one: Cómo Usar el Notebook
 
 - ✅ Abre el archivo AluraStoreLatam.ipynb en Google Colab.
   
@@ -108,8 +108,9 @@ Para acceder al Notebook, haz click en el siguiente enlace:
 
 💡 Personalización:
 
-Para modificar estilos gráficos, utiliza librerias matplot
-Para programar la lógica, ajusta código en Python.
+- Para modificar estilos gráficos, utiliza librerias matplot
+  
+- Para programar la lógica, ajusta código en Python.
 
 --
 
@@ -135,11 +136,15 @@ Para programar la lógica, ajusta código en Python.
 ## :computer: Tecnología utilizada
 - `Funcionalidad`: Google Colab | Python
 
+![GoogleColab_muestra](https://github.com/user-attachments/assets/416482d6-6726-4c63-b0bd-1244c178fc3b)
 
  - `Estilo`: Pandas | MatPlot
 
+![Plot graficos_muestra](https://github.com/user-attachments/assets/ed445dfc-9a43-4398-ac7a-ddc98249d66a)
 
  - `Tools`: Octocat, Canva, Repositorios GitHub, Shields.io
+
+
 
 ## :information_desk_person: Autores
 |www.linkedin.com/in/gloria-carolina-guerrero-velandia|
