@@ -43,11 +43,10 @@ Gracias al uso de Python, Pandas y Matplotlib, el proyecto brinda una solución 
 
 ## :unlock: Abrir y Ejecutar
 
-![Front GoogleLab]()
-
+![Abrir en GoogleColab](https://github.com/user-attachments/assets/a1c623bc-9f07-438a-bf82-cf22fc7984b1)
 
 ## :key: Acceso al Proyecto
-Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub:
+Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub: 
 
 :one: Requisitos previos
 
@@ -115,20 +114,20 @@ Para programar la lógica, ajusta código en Python.
 --
 
 📊 Ejemplos de Gráficos e Insights
-- Ingresos Totales: Gráfico de barras que muestra la superioridad de la Tienda 1 en ingresos.
+- Gráfico de barras: Ingresos Totales. Permite analizar los resultados destacados de la Tienda 1 en ingresos.
 
-  
-- Ventas por Categoría: Gráfico de barras agrupadas por tienda y categoría.
+  ![Grafico Barras](https://github.com/user-attachments/assets/57799870-7726-4ceb-a6fa-5bb8f5e40239)
 
-  
-- Calificaciones Promedio: Gráfico de dispersión mostrando que todas rondan un promedio de 4.
+ 
+- Gráficos de barras horizontal: Top productos vendidos. Para cada tienda permite analizar los productos con mayores ventas.
 
-  
-- Top productos vendidos: Gráficos de barras por tienda para los productos con mayores ventas.
+  ![Grafico barra horizontal](https://github.com/user-attachments/assets/bd873566-9f7a-4f75-a1b2-8214a1e2c790)
 
-  
+
 - Costo de Envío Promedio: Gráficos de pastel para comparar entre tiendas.
-  
+
+    ![Grafico torta](https://github.com/user-attachments/assets/4923be3e-7c78-4e20-aa48-928ac100e103)
+
 ✅ Insight clave: La Tienda 4 tiene el rendimiento más bajo en casi todos los aspectos analizados, lo que la convierte en la mejor opción para ser vendida.
 
 --
