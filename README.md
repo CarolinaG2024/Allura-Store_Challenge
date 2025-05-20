@@ -42,7 +42,7 @@ Gracias al uso de Python, Pandas y Matplotlib, el proyecto brinda una solución 
 
 
 ## :key: Acceso al Proyecto
-Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub: 
+Para acceder al proyecto, haz click en el siguiente enlace al repositorio público en GitHub: https://carolinag2024.github.io/Allura-Store_Challenge/
 
 :one: Requisitos previos
 
