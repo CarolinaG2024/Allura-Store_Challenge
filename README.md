@@ -1,5 +1,7 @@
 <h1 align="center">Challenge Alura Store</h1>
 
+![Portada Readme]()
+
 ## :loudspeaker: Estado del Proyecto
 <h4 align="center">
 :trophy: Proyecto Finalizado :trophy:
@@ -31,15 +33,16 @@ Gracias al uso de Python, Pandas y Matplotlib, el proyecto brinda una solución 
 
 ## :rotating_light: Funcionalidades del Proyecto
 - `Funcionalidad 1`: Importa librerias Panda y bases de datos de cuatro tiendas
-- `Funcionalidad 2`: Calcula la facturación total de cada tienda y representa graficamente para cada tienda
-- `Funcionalidad 3`: Evalua las categorias de productos y representa gráficamente para cada tienda
-- `Funcionalidad 4`: Calcula el promedio de calificación de los clientes y representa gráficamente para cada tienda
-- `Funcionalidad 5`: Identifica los productos más y menos vendidos de cada tienda y representa gráficamente para cada tienda
-- `Funcionalidad 6`: Calcula el costo promedio de envío y representa gráficamente para cada tienda
+- `Funcionalidad 2`: Importa librerias MatPlot para gráficos
+- `Funcionalidad 3`: Calcula la facturación total de cada tienda y representa graficamente para cada tienda
+- `Funcionalidad 4`: Evalua las categorias de productos y representa gráficamente para cada tienda
+- `Funcionalidad 5`: Calcula el promedio de calificación de los clientes y representa gráficamente para cada tienda
+- `Funcionalidad 6`: Identifica los productos más y menos vendidos de cada tienda y representa gráficamente para cada tienda
+- `Funcionalidad 7`: Calcula el costo promedio de envío y representa gráficamente para cada tienda
 
 ## :unlock: Abrir y Ejecutar
 
-![Front Amigo Secreto]
+![Front GoogleLab]()
 
 
 ## :key: Acceso al Proyecto
@@ -75,15 +78,15 @@ Extraer el archivo ZIP en tu computadora.
 
 El proyecto tiene la siguiente organización:
 
-![Estructura proyecto](https://github.com/user-attachments/assets/cb6b2c84-a834-48d3-bb3f-25438f6a9e49)
+![Estructura proyecto]()
 
 --
 
-:four: Ejecutar el Notebook
+:four: Ejecutar el Notebook en GitHub
 
 - `Paso 1`: Abrir la carpeta del proyecto.
 
-- `Paso 2`: Hacer doble clic en index.html.
+- `Paso 2`: Hacer doble clic en AluraStoreLatam.ipynb.
 
 - `Paso 3`: Se abrirá en el navegador automáticamente.
 
@@ -93,7 +96,7 @@ El proyecto tiene la siguiente organización:
 
 Para acceder al Notebook, haz click en el siguiente enlace: 
 
-- ✅ Abre el archivo informe_final.ipynb en Google Colab.
+- ✅ Abre el archivo AluraStoreLatam.ipynb en Google Colab.
   
 - ✅ Asegúrate de tener acceso a los enlaces de los CSV (url, url2, etc.).
 
@@ -103,24 +106,38 @@ Para acceder al Notebook, haz click en el siguiente enlace:
 
 💡 Personalización:
 
-Para modificar estilos, edita style.css.
-Para cambiar la lógica, ajusta app.js.
+Para modificar estilos gráficos, utiliza librerias matplot
+Para programar la lógica, ajusta código en Python.
 
 --
 
 📊 Ejemplos de Gráficos e Insights
-Ingresos Totales: Gráfico de barras que muestra la superioridad de la Tienda 1 en ingresos.
-Ventas por Categoría: Gráfico de barras agrupadas por tienda y categoría.
-Calificaciones Promedio: Gráfico de dispersión mostrando que todas rondan un promedio de 4.
-Top productos vendidos: Gráficos de barras por tienda para los productos con mayores ventas.
-Costo de Envío Promedio: Gráficos de pastel para comparar entre tiendas.
+- Ingresos Totales: Gráfico de barras que muestra la superioridad de la Tienda 1 en ingresos.
+
+  
+- Ventas por Categoría: Gráfico de barras agrupadas por tienda y categoría.
+
+  
+- Calificaciones Promedio: Gráfico de dispersión mostrando que todas rondan un promedio de 4.
+
+  
+- Top productos vendidos: Gráficos de barras por tienda para los productos con mayores ventas.
+
+  
+- Costo de Envío Promedio: Gráficos de pastel para comparar entre tiendas.
+  
 ✅ Insight clave: La Tienda 4 tiene el rendimiento más bajo en casi todos los aspectos analizados, lo que la convierte en la mejor opción para ser vendida.
 
 --
 
 ## :computer: Tecnología utilizada
-Google Colab | Python | Pandas | Jupiter | Git | GitHub
+- `Funcionalidad`: Google Colab | Python
 
+
+ - `Estilo`: Pandas | MatPlot
+
+
+ - `Tools`: Octocat, Canva, Repositorios GitHub, Shields.io
 
 ## :information_desk_person: Autores
 |www.linkedin.com/in/gloria-carolina-guerrero-velandia|
